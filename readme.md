@@ -6,3 +6,6 @@ run this in the command line
 '''
 
 Place all jupyter notebooks you don't want version controlled in sandbox folder.
+
+you can then use voila to serve these jupyter notebooks as apps
+voila <path-to-notebook> <options>
