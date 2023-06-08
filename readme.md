@@ -1,0 +1,1 @@
+This is a collection of jupyter notebooks used for quick python code snippets or analysis
